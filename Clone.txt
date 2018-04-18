@@ -1,0 +1,2 @@
+git clone git@github.com:Paccumtreal/shiyanlou_one.git
+说明：github支持各种协议，在远程推送时使用的https://速度较慢，使用ssh原生的git://协议无疑是最快的。
